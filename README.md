@@ -1,7 +1,7 @@
 MIHGradientView
 ===============
 
-UIView subclass which draws a axial color gradient as background. You can customize the gradient with the properties `startPoint`, `startColor`, `endPoint` and `endColor`.
+UIView subclass which draws an axial color gradient as background. You can customize the gradient with the properties `startPoint`, `startColor`, `endPoint` and `endColor`.
 
 How To Get Started
 ------------------
